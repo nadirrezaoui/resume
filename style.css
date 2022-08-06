@@ -1,0 +1,48 @@
+.subheading{
+    font-size: 1.25em;
+    font-weight: bolder;
+    color: grey;
+    text-transform: uppercase;
+    padding-left: 16px;
+}
+
+.skills ul li{
+    display:flex ;
+    margin-bottom: 10px;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: -15px;
+
+}
+.skills ul li .skill_prog{
+    width: 60%;
+    height: 5px;
+    position: relative;
+}
+
+.skill_name{
+    width:4px;
+    color:black;
+    font-weight:bold;
+}
+.skill_per{
+    margin-right: 15px;
+    color:black;
+    font-weight: bold;
+}
+h3{
+    position: relative;
+    height: 100%; 
+    padding-right: 50px;
+    background: grey;
+  
+}
+.explist .jobtitle{
+    font-weight: bold;
+}
+.date{
+    font-size: 16px;
+    color: grey;
+    font-weight: bold;
+}
+
